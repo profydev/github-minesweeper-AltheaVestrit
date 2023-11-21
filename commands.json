@@ -28,6 +28,7 @@
 	"flag E1",
 	"flag A2",
 	"clear A3",
-	"clear A4"
+	"clear A4",
+	"end"
   ]
 }
